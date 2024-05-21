@@ -9,11 +9,11 @@
 
 ##
 
-  <img height=180 align="center" src="https://github-readme-stats.vercel.app/api?username=thassokarly&show_icons=true&theme=dracula" />
-</a>
-<a href="https://github.com/thassokarly/convoychat">
-  <img height=160 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=thassokarly&layout=compact&langs_count=8&card_width=320&show_icons=true&theme=dracula" />
-</a>
+<div align="center">  
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=thassokarly&show_icons=true&count_private=true&hide_border=true&title_color=DDA0DD&icon_color=DDA0DD&text_color=FFFFFF&bg_color=0d1117" alt="Thasso Morais github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thassokarly&layout=compact&hide_border=true&title_color=DDA0DD&text_color=DDA0DD&bg_color=0d1117" />
+</div>
+
 
 ##
 
